@@ -8,7 +8,7 @@ labels: bug
 
 assignees: ""
 
-----
+---
 
 ## 🐛 Bug Report
 
